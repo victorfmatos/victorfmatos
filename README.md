@@ -1,16 +1,41 @@
-### Hi there 👋
+## Fala aí! Meu nome é Victor
 
-<!--
-**victorfmatos/victorfmatos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Estudando desenvolvimento web
+- 😄 Pronouns: ele/dele
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/victorfmatos"/>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=victorfmatos&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=victorfmatos&hide_border=false&include_all_commits=false&count_private=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img width="42%" height="180em" src="https://github-readme-stats.vercel.app/api?username=victorfmatos&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=true" />
+  </picture>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=victorfmatos&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=true&layout=compact"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=victorfmatos&hide_border=false&include_all_commits=false&count_private=true&layout=compact"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img width="56%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorfmatos&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
+  </picture>
+</div>
+<div style="display: inline_block"><br/>
+  <img align="center" alt="Victor-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />-
+  <img align="center" alt="Victor-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />-
+<!--   <img align="center" alt="Victor-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />- -->
+  <img align="center" alt="Victor-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />-
+  <img align="center" alt="Victor-HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />-
+  <img align="center" alt="Victor-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />-
+  <img align="center" alt="Victor-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />-
+  <img align="center" alt="Victor-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+<!--   <img align="center" alt="Victor-Godot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" /> -->
+</div>
