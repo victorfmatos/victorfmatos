@@ -1,7 +1,6 @@
 ## Fala aí! Meu nome é Victor
 
 - 🌱 Estudando desenvolvimento web
-- 😄 Pronouns: ele/dele
 
 <div>
   <a href="https://github.com/victorfmatos"/>
